@@ -1,2 +1,2 @@
-# Java-CMSC
+# Java-Lab1
 Lab #1
